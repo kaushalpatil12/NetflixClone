@@ -1,4 +1,4 @@
-### Netflix-Clone-With-HTML-CSS-JS
+### Netflix Clone Using HTML , CSS and JavaScript
 
 This is the Landing Page of Netflix Clone Using **HTML, CSS and JavaScript.**
 
